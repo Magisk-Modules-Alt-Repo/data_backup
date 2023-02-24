@@ -3,6 +3,8 @@
 
 ![](https://img.shields.io/github/watchers/ziandzivan/data_backup?longCache=true&label=Visitors&color=blueviolet&style=flat)
 
+![](https://komarev.com/ghpvc/?username=ziandzivan&color=brightgreen&label=ziand's+profile+views&style=flat)
+
 <!--
 <a href="https://forum.xda-developers.com/m/ziand.950857"><img src="https://img.shields.io/badge/XDA-Profile-yellow?longCache=true&style=flat"> </a>
 FOR-THE-BADGE
