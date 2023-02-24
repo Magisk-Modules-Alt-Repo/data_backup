@@ -1,6 +1,8 @@
 > **Warning**
 > Work In progress
 
+![Watchers](https://img.shields.io/github/watchers/ziandzivan/data_backup?longCache=true?label=Visitors&color=blueviolet&style=FOR-THE-BADGE)
+
 # data_backup
 
 ## Introduction
