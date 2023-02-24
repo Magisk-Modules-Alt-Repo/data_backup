@@ -1,7 +1,7 @@
 > **Warning**
 > Work In progress
 
-![](https://img.shields.io/github/watchers/ziandzivan/data_backup?longCache=true&label=Visitors&color=blueviolet&style=flat)
+![Watchers](https://img.shields.io/github/watchers/ziandzivan/data_backup?longCache=true&label=Visitors&color=blueviolet&style=flat)
 
 ![](https://komarev.com/ghpvc/?username=ziandzivan&color=brightgreen&label=ziand's+profile+views&style=flat)
 
