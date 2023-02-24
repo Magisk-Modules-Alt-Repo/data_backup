@@ -1,7 +1,12 @@
 > **Warning**
 > Work In progress
 
-![Watchers](https://img.shields.io/github/watchers/ziandzivan/data_backup?&longCache=true&label=Visitors&color=blueviolet&style=FOR-THE-BADGE)
+![](https://img.shields.io/github/watchers/ziandzivan/data_backup?longCache=true&label=Visitors&color=blueviolet&style=flat)
+
+<!--
+<a href="https://forum.xda-developers.com/m/ziand.950857"><img src="https://img.shields.io/badge/XDA-Profile-yellow?longCache=true&style=flat"> </a>
+FOR-THE-BADGE
+-->
 
 # data_backup
 
