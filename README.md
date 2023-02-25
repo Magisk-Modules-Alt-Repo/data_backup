@@ -113,4 +113,4 @@ Example: `data_backup.sh -M -e Download`
 
 ***#4***
 
-`-h` - to show help message and exit.
+`-h` - to show ***help*** message and exit.
