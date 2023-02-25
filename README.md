@@ -39,5 +39,5 @@ some:
 
 - Android 7+ 
 - Magisk 20.4+ 
-- Optionally: PC with ADB utilities
-- Optionally: External storage device
+- Optionally: Windows, macOS or Linux PC with [Android Platform Tools](https://developer.android.com/studio/command-line/adb) installed
+- Optionally: External storage device (extSD or USB-OTG)
