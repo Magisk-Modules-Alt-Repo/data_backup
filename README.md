@@ -57,7 +57,7 @@ There are 2 variants for running script, from device or PC therminal.
     
     `data_backup.sh`
     
-2. From PC :
+2. From ***PC therminal*** :
 
    `adb shell`
  
