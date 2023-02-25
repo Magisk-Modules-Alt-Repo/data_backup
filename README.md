@@ -73,6 +73,10 @@ The script will make data backup with all contents of internal device memory, ex
 
 ### ***Parameters***
 
+#1
 
+`-e <path1> <path2> <...>` - to exclude from archive one or several catalogues of internal memory. Folders are listed through a blank. 
+> NOTE: _Paths named with blanks accordingly are not supposed !_ 
+>
 
 
