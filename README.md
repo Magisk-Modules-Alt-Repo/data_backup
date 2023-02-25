@@ -1,5 +1,3 @@
-![](https://img.shields.io/github/watchers/ziandzivan/data_backup?label=Visitors&color=blueviolet&style=flat)
-
 > **Warning**
 > Work In progress
 
