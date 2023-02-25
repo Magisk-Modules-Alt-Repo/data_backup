@@ -7,7 +7,7 @@
 
 Script of creating User Data backup from booted system with root (subsequent restoring by data_restore.zip script).
 
-### Advantages
+#### Advantages
 
 - creating and restoring data backup in the absence of TWRP for the device;
 - a great opportunity to create a full backup with the contents of the internal memory or part of it, allowing you to restore an exact copy without reconfiguring the user after restoring;
@@ -34,3 +34,10 @@ on my hands:
 some:
 - Xiaomi
 - POCO
+
+## Requirement
+
+- Android 7+ 
+- Magisk 20.4+ 
+- Optionally: PC with ADB utilities
+- Optionally: External storage device
