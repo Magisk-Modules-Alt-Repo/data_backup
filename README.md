@@ -6,8 +6,8 @@
 ## Introduction
 
 Script of creating User Data backup from booted system with root (subsequent restoring by data_restore.zip script).
-
-#### Advantages
+  
+### ***Advantages***
 
 - creating and restoring data backup in the absence of TWRP for the device;
 - a great opportunity to create a full backup with the contents of the internal memory or part of it, allowing you to restore an exact copy without reconfiguring the user after restoring;
@@ -19,18 +19,18 @@ Script of creating User Data backup from booted system with root (subsequent res
 - the ability to restore a backup without TWRP from booted system with root;
 - the universality of the method for different models of brands of devices on different versions of Android.
 
-## Supported devices
-
-### First-grade support
-
+## Supported devices  
+  
+### ***First-grade support***
+  
 on my hands:
 - Google Pixels
 - HTC
-
-### Others
+  
+### ***Others***
 
 - Asus Rog Phone
-
+  
 some:
 - Xiaomi
 - POCO
