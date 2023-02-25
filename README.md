@@ -117,5 +117,8 @@ Example: `data_backup.sh -M -e Download`
 
 ## Structure of created files
 
-The backup is saving into folder "databackup" in the root of a storage device:
+The backup is saving into folder `databackup` in the root of a storage device.
+In case of next backuping, the folder `databackup` of a previous backup is automatically renamed to `databackup_<year-month-date_time>` :
+
+
 
