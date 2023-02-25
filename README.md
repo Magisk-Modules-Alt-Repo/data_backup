@@ -41,3 +41,26 @@ some:
 - Magisk 20.4+ 
 - Optionally: Windows, macOS or Linux PC with [Android Platform Tools](https://developer.android.com/studio/command-line/adb) installed
 - Optionally: External storage device (extSD or USB-OTG)
+
+## Installing script
+
+The script data_backup.sh will be integrated into the system by installing a Magisk module data_backup_v2.xx-MAGISK.zip.
+- Download the module and copy it to internal storage.
+- In the Magisk App: Modules - Install from storage - select the downloaded module .zip - Reboot. Done, now you can use it.
+
+## Running script
+
+There are 2 variants for running script, from device or PC therminal.
+1. Main variant: From ***Android therminal***, for examle [Material Terminal](https://play.google.com/store/apps/details?id=yarolegovich.materialterminal&pli=1) or other. 
+
+    `su`
+    
+    `data_backup.sh`
+    
+2. From PC:
+
+   `adb shell`
+ 
+    `su`
+    
+    `data_backup.sh`
