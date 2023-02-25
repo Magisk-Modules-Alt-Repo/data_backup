@@ -51,16 +51,28 @@ The script data_backup.sh will be integrated into the system by installing a Mag
 ## Running script
 
 There are 2 variants for running script, from device or PC therminal.
-1. Main variant: From ***Android therminal***, for examle [Material Terminal](https://play.google.com/store/apps/details?id=yarolegovich.materialterminal&pli=1) or other. 
+1. Main variant: From ***Android therminal***, for example [Material Terminal](https://play.google.com/store/apps/details?id=yarolegovich.materialterminal&pli=1) or another. 
 
     `su`
     
     `data_backup.sh`
     
-2. From PC:
+2. From PC :
 
    `adb shell`
  
     `su`
     
     `data_backup.sh`
+
+## Parameters at starting
+
+### ***Without parameters*** (main & default)
+
+The script will make data backup with all contents of internal device memory, except for folders of archives itself data backup and folders TWRP with backups.
+
+### ***Parameters***
+
+
+
+
