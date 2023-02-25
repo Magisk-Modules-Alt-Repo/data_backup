@@ -73,7 +73,7 @@ The script will make data backup with all contents of internal device memory, ex
 
 ### ***Parameters***
 
-#1
+***#1***
 
 `-e <path1> <path2> <...>` - to ***exclude*** from archive one or several catalogues of internal memory. Folders are listed through a blank. 
 > NOTE: _Paths named with blanks accordingly are not supposed !_ 
@@ -95,5 +95,10 @@ where:
 `[mW]*` - names begin on letters "m" or "W".
 
 
-#2
+***#2***
 
+`-m` - to exclude from created backup ALL content of the internal storage. This variant is similar as official TWRPs create data backups (without media).
+
+Example: `data_backup.sh -m`
+
+***#3***
