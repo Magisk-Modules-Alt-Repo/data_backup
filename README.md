@@ -75,8 +75,25 @@ The script will make data backup with all contents of internal device memory, ex
 
 #1
 
-`-e <path1> <path2> <...>` - to exclude from archive one or several catalogues of internal memory. Folders are listed through a blank. 
+`-e <path1> <path2> <...>` - to ***exclude*** from archive one or several catalogues of internal memory. Folders are listed through a blank. 
 > NOTE: _Paths named with blanks accordingly are not supposed !_ 
 >
+Example 1.1: `data_backup.sh -e DCIM Download Pictures/Screenshots My_Music`
 
+There is posible to specify folders names with ***Pattern Matching:***
+
+Example 1.2: `data_backup.sh -M -e DCIM *ownload Pictures/Screen* iG[oO]* [mW]*`
+
+where:
+
+`*ownload` - folders names in the root of intSD with "ownload" in the end of names;
+
+`Pictures/Screen*` - all subdirectories beginning on "Screen" in catalogue "Pictures" of internal SD;
+
+`iG[oO]*` - all catalogues beginning on iGo without sensitivity the register of the letter "o";
+
+`[mW]*` - names begin on letters "m" or "W".
+
+
+#2
 
