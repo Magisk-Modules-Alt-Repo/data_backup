@@ -97,8 +97,20 @@ where:
 
 ***#2***
 
-`-m` - to exclude from created backup ALL content of the internal storage. This variant is similar as official TWRPs create data backups (without media).
+`-m` - to exclude from created backup ALL content of the internal storage. This variant is similar as official TWRPs create data backups (without ***media***).
 
 Example: `data_backup.sh -m`
 
 ***#3***
+
+`-M` - forced creation of ***Multivolume*** backup on any storage device in exFAT format for possible coping and restoring from the external SD in FAT32. 
+
+This key is not obligatory at backuping directly on external SD in FAT32 because in this case the script automatically creates Multivolume archive up to 4GB of each volume. 
+
+The key, as the first specified, can be used together with key `-m` or `-e <path1> ...`. 
+
+Example: `data_backup.sh -M -e Download`
+
+***#4***
+
+`-h` - to show help message and exit.
