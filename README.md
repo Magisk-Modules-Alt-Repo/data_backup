@@ -114,3 +114,8 @@ Example: `data_backup.sh -M -e Download`
 ***#4***
 
 `-h` - to show ***help*** message and exit.
+
+## Structure of created files
+
+The backup is saving into folder "databackup" in the root of a storage device:
+
