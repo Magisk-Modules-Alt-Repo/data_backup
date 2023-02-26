@@ -119,7 +119,7 @@ Example: `data_backup.sh -M -e Download`
 
 `-h` - to show ***help*** message and exit.
 
-## Structure of created files
+## Created files
 
 The backup is saving into folder `databackup` in the root of a storage device.
 In case of next backuping, the folder `databackup` of a previous backup is automatically renamed to `databackup_<year-month-date_time>` :
@@ -137,7 +137,23 @@ Inside databackup folder  there are files for a latest backup :
 
 File databackup.log has info for correct restoring backup:
 
-<img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/2023-02-26_20-59-33.png">
+<img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/2023-02-26_20-59-33.png"> <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/2023-02-26_21-00-29.png">
+
+- backuping date;
+- system software number;
+- including intSD (yes/no);
+- excluding folders from intSD;
+- Magisk version;
+- screen settings.
+
+In the end of the file there is info about successful backuping or error code (in last case data*.tar archives will be deleted).
+
+> **Warning**
+> - Restoring backup is ONLY from the folder `databackup` in the root of internal storage. 
+> - Do not rename the folder and data*.tar files !
+> - Any editing of the archive data*.tar files is not allowed for correct restoring !
+
+
 
 
 
