@@ -131,7 +131,7 @@ In case of next backuping, the folder `databackup` of a previous backup is autom
 
 Inside databackup folder  there are files for a latest backup :
   -  `data*.tar` - archive files of the backup;
-  -  `check_sum.md5(sha1)` - hash-file of archive files data*.tar;
+  -  `check_sum.sha1` - hash-file of archive files data*.tar;
   -  `datarestore.log` - log-file of restoring user data;
   -  `databackup.log` - log-file of backuping user data.
 
@@ -152,6 +152,17 @@ In the end of the file there is info about successful backuping or error code (i
 > - Restoring backup is ONLY from the folder `databackup` in the root of internal storage. 
 > - Do not rename the folder and data*.tar files !
 > - Any editing of the archive data*.tar files is not allowed for correct restoring !
+
+## Features of script working
+
+- Data backup automatically will be created on external storage device if it is mounted. First the script is looking for mounted USB-OTG, then extSD and after intSD. You can unmount external SDs for creating the backup on internal SD.
+- If external SD in FAT32, the backup will be created automatically by Multy-volume archive files up to 4GB of each. 
+- To avoid error 1, do not use your smartphone and do not switch off the screen during backuping.
+- After starting the script switches on Air plane mode, reduces the screen brightness.
+- Running calculating hash-checksum will be started in the background after successful backuping, Air plane mode will be switched off, screen settings will be restored. At this time you can use your device.
+- User itself has to check if enough free space for backup.
+- Save created backup on intSD by copying databackup folder somewhere to PC, cloud and so on.
+
 
 
 
