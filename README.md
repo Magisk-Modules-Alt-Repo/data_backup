@@ -135,6 +135,10 @@ Inside databackup folder  there are files for a latest backup :
   -  `datarestore.log` - log-file of restoring user data;
   -  `databackup.log` - log-file of backuping user data.
 
-File databackup.log has usefull info for  restore backup
+File databackup.log has info for correct restoring backup:
+
+<img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/2023-02-26_20-59-33.png">
+
+
 
 
