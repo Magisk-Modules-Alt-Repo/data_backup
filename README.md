@@ -119,6 +119,12 @@ Example: `data_backup.sh -M -e Download`
 
 The backup is saving into folder `databackup` in the root of a storage device.
 In case of next backuping, the folder `databackup` of a previous backup is automatically renamed to `databackup_<year-month-date_time>` :
+<img width="100" height="50" src="https://raw.githubusercontent.com/ziandzivan/data_backup/assets/Screenshot_Folders_databackup_20220420-224223.png">
+
+![image-1](https://raw.githubusercontent.com/ziandzivan/data_backup/assets/Screenshot_Folders_databackup_20220420-224223.png)
+
+![image-1](https://github.com/ziandzivan/data_backup/assets/Screenshot_Folders_databackup_20220420-224223.png)
+
 
 
 
