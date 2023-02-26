@@ -130,10 +130,10 @@ In case of next backuping, the folder `databackup` of a previous backup is autom
 <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/Screenshot_Folders_databackup_20220420-224223.png">  <img width="300" height="600" src="https://raw.githubusercontent.com/ziandzivan/data_backup/main/assets/Screenshot_inside_databackup_20220420-224252.png">
 
 Inside databackup folder  there are files for a latest backup :
-  -  data*.tar - archive files of the backup;
-  -  check_sum.md5(sha1) - hash-file of archive files data*.tar;
-  -  datarestore.log - log-file of restoring user data;
-  -  databackup.log - log-file of backuping user data.
+  -  `data*.tar` - archive files of the backup;
+  -  `check_sum.md5(sha1)` - hash-file of archive files data*.tar;
+  -  `datarestore.log` - log-file of restoring user data;
+  -  `databackup.log` - log-file of backuping user data.
 
 
 
