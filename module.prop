@@ -1,0 +1,6 @@
+id=data_backup
+name=Data backup creator
+version=v2.11
+versionCode=4
+author=ziand
+description=Data backup creator for restoring by data_restore.zip from TWRP or Magisk module installer
