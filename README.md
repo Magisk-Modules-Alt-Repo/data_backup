@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Script of creating User Data backup from booted system with root (subsequent restoring by data_restore.zip script).
+Script of creating User Data backup from booted system with root (subsequent restoring by ![data_restore.zip](https://github.com/ziandzivan/data_restore) script).
   
 ### ***Advantages***
 
