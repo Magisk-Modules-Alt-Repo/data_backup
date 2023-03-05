@@ -34,8 +34,7 @@ on my hands:
 - Asus Rog Phone
   
 some:
-- Xiaomi
-- POCO
+- Xiaomi, POCO
 
 ## Requirement
 
