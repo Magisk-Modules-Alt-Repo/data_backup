@@ -1,0 +1,6 @@
+{
+    "version": "v2.11",
+    "versionCode": 4,
+    "zipUrl": "https://github.com/ziandzivan/data_backup/releases/download/v2.11/data_backup_v2.11-MAGISK.zip",
+    "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/changelog.md"
+}

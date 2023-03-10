@@ -4,3 +4,4 @@ version=v2.11
 versionCode=4
 author=ziand
 description=Data backup creator for restoring by data_restore.zip from TWRP or Magisk module installer
+updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.json
