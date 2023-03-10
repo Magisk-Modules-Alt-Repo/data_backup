@@ -146,7 +146,7 @@ File databackup.log has info for correct restoring backup:
 In the end of the file there is info about successful backuping or error code (in last case data*.tar archives will be deleted).
 
 > **Warning**
-> - Restoring backup is ONLY from the folder `databackup` in the root of internal storage. 
+> - Restoring backup is ONLY from the folder `databackup` in the root of a storage. 
 > - Do not rename the folder and data*.tar files !
 > - Any editing of the archive data*.tar files is not allowed for correct restoring !
 
@@ -166,6 +166,6 @@ In the end of the file there is info about successful backuping or error code (i
 - Error 2: "Failure. Error 2. Not enough place on storage device". Care about enough free place.
 - Error 1: "Failure. Error 1". It means about other mistakes of recording on a storage device. Do not use your device and do not switch off a screen during backuping. Restart data backup cript.
 
+_Additional info:_
 
-Additional info:
 a link of script attachments: https://github.com/ziandzivan/attachments_of_data_backup
