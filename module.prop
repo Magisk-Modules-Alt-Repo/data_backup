@@ -1,7 +1,7 @@
 id=data_backup
 name=Data backup creator
-version=v2.12
-versionCode=5
+version=v2.13
+versionCode=6
 author=ziand
 description=Data backup creator for restoring by data_restore.zip from or Magisk module installer or TWRP
 updateJson=https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/module.json
