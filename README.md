@@ -4,6 +4,8 @@
 ## Introduction
 
 Script of creating User Data backup from booted system with root (subsequent restoring by ![data_restore.zip](https://github.com/ziandzivan/data_restore_Courier) script).
+
+<a href="https://forum.xda-developers.com/t/module-discussion-data-internal-storage-backup-module-for-rooted-magisk-devices-with-twrp.4571947/#post-88369163)"><img src="https://img.shields.io/badge/XDA-discussion-yellow?longCache=true&style=flat">
   
 ### ***Advantages***
 
