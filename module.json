@@ -1,6 +1,6 @@
 {
-    "version": "v2.13",
-    "versionCode": 6,
-    "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/releases/download/v2.13/data_backup_v2.13-MAGISK.zip",
+    "version": "v2.14",
+    "versionCode": 7,
+    "zipUrl": "https://github.com/Magisk-Modules-Alt-Repo/data_backup/releases/download/v2.14/data_backup_v2.14-MAGISK.zip",
     "changelog": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/data_backup/main/changelog.md"
 }
