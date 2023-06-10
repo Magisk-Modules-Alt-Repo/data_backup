@@ -1,3 +1,7 @@
+2.14  
+• Improvements  
+• Correction of current time in log-file  
+
 2.13  
 • Added support of some Xiaomi  
 • Fixes  
